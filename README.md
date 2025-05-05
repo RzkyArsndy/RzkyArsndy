@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 IT student at Politeknik Negeri Samarinda | Passionate about web development and AI | Building solutions with code.
 
 
